@@ -2,7 +2,9 @@
 
 #Start the server
 go get github.com/aggarwalsomya/cmpe273-lab2
+
 cd cmpe273-lab2
+
 go run *
 
 
