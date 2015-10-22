@@ -1,9 +1,9 @@
 # cmpe273-lab2
 
 #Start the server
-go get github.com/aggarwalsomya/cmpe273-lab2
+go get github.com/aggarwalsomya/cmpe273-lab2/server
 
-cd cmpe273-lab2
+cd cmpe273-lab2/server
 
 go run *
 
